@@ -130,7 +130,7 @@ build reports a stack offset error.
 
 ## Tests
 
-![Test run](assets/tests-passing.png)
+
 
 | Test | Verifies |
 |---|---|
